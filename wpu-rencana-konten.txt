@@ -3,7 +3,9 @@ RENCANA KONTEN WPU
 - Rencana bikin Konten Javascript
 ES6
 Framework Javascript
-- Struktur data dasar
+ ^ Angular
+ ^ React
 - Rencana bikin Konten PHP Frameworks
+ ^ Lavarel
 - Rencana bikin Konten Interview
 - Rencana bikin Konten Vlog
