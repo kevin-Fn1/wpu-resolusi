@@ -7,5 +7,7 @@ Framework Javascript
  ^ React
 - Rencana bikin Konten PHP Frameworks
  ^ Lavarel
+- Struktur data dasar
 - Rencana bikin Konten Interview
 - Rencana bikin Konten Vlog
+- Python
